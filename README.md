@@ -22,12 +22,31 @@
       Most of the problems are solved by using the <a href="https://github.com/alexprut/Algo">Algo</a> library.
     </td> 
   </tr>
+  <tr>
+      <td>
+        <a href="https://github.com/alexprut/HackerRank">
+          <img src="https://github.com/alexprut/HackerRank/raw/master/hackerrank-logo.png" width="80" height="auto"/>
+        </a>
+      </td>
+      <td>
+        Solutions to <a href="https://github.com/alexprut/HackerRank">HackerRank</a> problems.
+      </td>
+    </tr>
+    <tr>
+        <td>
+          <a href="https://github.com/alexprut/InterviewBit">
+            <img src="https://github.com/alexprut/InterviewBit/raw/master/interviewbit-logo-small.png" width="80" height="auto"/>
+          </a>
+        </td>
+        <td>
+          Solutions to <a href="https://github.com/alexprut/InterviewBit">InterviewBit</a> problems.
+        </td>
+      </tr>
 </table>
 
 The problem solutions and implementations are entirely provided by [Alex Prut](https://leetcode.com/alexprut/).
 The code is not refactored, no coding style is followed, the only purpose of the written code is to pass all the
 platform tests of a given problem.
-
 
 ## Problems
 |Number|Title|Difficulty|Solution|
