@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-34%2F1411-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-36%2F1411-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://leetcode.com/alexprut/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/LeetCode/blob/master/LICENSE)
@@ -58,8 +58,10 @@ platform tests of a given problem.
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)|Medium|[Solution.java](Problems/701/Solution.java)|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|Easy|[Solution.java](Problems/709/Solution.java)|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|Easy|[Solution.java](Problems/771/Solution.java)|
+|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)|Easy|[Solution.java](Problems/804/Solution.java)|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)|Easy|[Solution.java](Problems/938/Solution.java)|
 |965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)|Easy|[Solution.java](Problems/965/Solution.java)|
+|1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)|Medium|[Solution.java](Problems/1008/Solution.java)|
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses)|Easy|[Solution.java](Problems/1021/Solution.java)|
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)|Medium|[Solution.java](Problems/1038/Solution.java)|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)|Easy|[Solution.java](Problems/1108/Solution.java)|
