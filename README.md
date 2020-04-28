@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-39%2F1411-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-41%2F1411-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://leetcode.com/alexprut/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/LeetCode/blob/master/LICENSE)
@@ -60,6 +60,7 @@ platform tests of a given problem.
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|Easy|[Solution.java](Problems/709/Solution.java)|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|Easy|[Solution.java](Problems/771/Solution.java)|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)|Easy|[Solution.java](Problems/804/Solution.java)|
+|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image)|Easy|[Solution.java](Problems/832/Solution.java)|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)|Easy|[Solution.java](Problems/938/Solution.java)|
 |965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)|Easy|[Solution.java](Problems/965/Solution.java)|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)|Medium|[Solution.java](Problems/1008/Solution.java)|
@@ -77,6 +78,7 @@ platform tests of a given problem.
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side)|Easy|[Solution.java](Problems/1299/Solution.java)|
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum)|Medium|[Solution.java](Problems/1302/Solution.java)|
 |1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero)|Easy|[Solution.java](Problems/1304/Solution.java)|
+|1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees)|Medium|[Solution.java](Problems/1305/Solution.java)|
 |1309|[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping)|Easy|[Solution.java](Problems/1309/Solution.java)|
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list)|Easy|[Solution.java](Problems/1313/Solution.java)|
 |1315|[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent)|Medium|[Solution.java](Problems/1315/Solution.java)|
@@ -90,7 +92,6 @@ platform tests of a given problem.
 |1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order)|Easy|[Solution.java](Problems/1389/Solution.java)|
 |1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams)|Medium|[Solution.java](Problems/1395/Solution.java)|
 |1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key)|Medium|[Solution.java](Problems/1409/Solution.java)|
-
 License
 =======
 Licensed under [MIT](LICENSE).
