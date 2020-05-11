@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-51%2F1411-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-52%2F1411-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://leetcode.com/alexprut/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/LeetCode/blob/master/LICENSE)
@@ -72,6 +72,7 @@ platform tests of a given problem.
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)|Medium|[Solution.java](Problems/1008/Solution.java)|
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses)|Easy|[Solution.java](Problems/1021/Solution.java)|
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)|Medium|[Solution.java](Problems/1038/Solution.java)|
+|1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)|Medium|[Solution.java](Problems/1091/Solution.java)|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)|Easy|[Solution.java](Problems/1108/Solution.java)|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)|Medium|[Solution.java](Problems/1143/Solution.java)|
 |1179|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table)|Easy|[Solution.java](Problems/1179/Solution.java)|
