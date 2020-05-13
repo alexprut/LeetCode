@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-53%2F1411-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-54%2F1411-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://leetcode.com/alexprut/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/LeetCode/blob/master/LICENSE)
@@ -53,6 +53,7 @@ platform tests of a given problem.
 |-|-|-|-|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|Easy|[Solution.java](Problems/14/Solution.java)|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|Medium|[Solution.java](Problems/73/Solution.java)|
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)|Medium|[Solution.java](Problems/240/Solution.java)|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)|Medium|[Solution.java](Problems/300/Solution.java)|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl)|Medium|[Solution.java](Problems/535/Solution.java)|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree)|Easy|[Solution.java](Problems/538/Solution.java)|
