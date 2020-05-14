@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-54%2F1411-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-55%2F1411-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://leetcode.com/alexprut/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/LeetCode/blob/master/LICENSE)
@@ -58,6 +58,7 @@ platform tests of a given problem.
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl)|Medium|[Solution.java](Problems/535/Solution.java)|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree)|Easy|[Solution.java](Problems/538/Solution.java)|
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)|Easy|[Solution.java](Problems/559/Solution.java)|
+|566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix)|Easy|[Solution.java](Problems/566/Solution.java)|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string)|Medium|[Solution.java](Problems/567/Solution.java)|
 |595|[Big Countries](https://leetcode.com/problems/big-countries)|Easy|[Solution.java](Problems/595/Solution.java)|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|Easy|[Solution.java](Problems/700/Solution.java)|
