@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-55%2F1411-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-57%2F1474-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://leetcode.com/alexprut/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/LeetCode/blob/master/LICENSE)
@@ -68,6 +68,7 @@ platform tests of a given problem.
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|Easy|[Solution.java](Problems/771/Solution.java)|
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation)|Easy|[Solution.java](Problems/784/Solution.java)|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)|Easy|[Solution.java](Problems/804/Solution.java)|
+|814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning)|Medium|[Solution.java](Problems/814/Solution.java)|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image)|Easy|[Solution.java](Problems/832/Solution.java)|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix)|Easy|[Solution.java](Problems/867/Solution.java)|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)|Easy|[Solution.java](Problems/938/Solution.java)|
@@ -107,6 +108,7 @@ platform tests of a given problem.
 |1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order)|Easy|[Solution.java](Problems/1389/Solution.java)|
 |1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams)|Medium|[Solution.java](Problems/1395/Solution.java)|
 |1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key)|Medium|[Solution.java](Problems/1409/Solution.java)|
+|1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)|Easy|[Solution.java](Problems/1470/Solution.java)|
 
 License
 =======
