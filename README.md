@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-59%2F1474-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-63%2F1474-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://leetcode.com/alexprut/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/LeetCode/blob/master/LICENSE)
@@ -62,13 +62,16 @@ platform tests of a given problem.
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)|Easy|[Solution.java](Problems/559/Solution.java)|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix)|Easy|[Solution.java](Problems/566/Solution.java)|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string)|Medium|[Solution.java](Problems/567/Solution.java)|
+|589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal)|Easy|[Solution.java](Problems/589/Solution.java)|
+|590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal)|Easy|[Solution.java](Problems/590/Solution.java)|
 |595|[Big Countries](https://leetcode.com/problems/big-countries)|Easy|[Solution.java](Problems/595/Solution.java)|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|Easy|[Solution.java](Problems/700/Solution.java)|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)|Medium|[Solution.java](Problems/701/Solution.java)|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|Easy|[Solution.java](Problems/709/Solution.java)|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels)|Medium|[Solution.java](Problems/763/Solution.java)|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|Easy|[Solution.java](Problems/771/Solution.java)|
-|784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation)|Easy|[Solution.java](Problems/784/Solution.java)|
+|784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation)|Medium|[Solution.java](Problems/784/Solution.java)|
+|797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target)|Medium|[Solution.java](Problems/797/Solution.java)|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)|Easy|[Solution.java](Problems/804/Solution.java)|
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning)|Medium|[Solution.java](Problems/814/Solution.java)|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image)|Easy|[Solution.java](Problems/832/Solution.java)|
@@ -110,6 +113,7 @@ platform tests of a given problem.
 |1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order)|Easy|[Solution.java](Problems/1389/Solution.java)|
 |1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams)|Medium|[Solution.java](Problems/1395/Solution.java)|
 |1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key)|Medium|[Solution.java](Problems/1409/Solution.java)|
+|1450|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)|Easy|[Solution.java](Problems/1450/Solution.java)|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)|Easy|[Solution.java](Problems/1470/Solution.java)|
 
 License
