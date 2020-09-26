@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-64%2F1474-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-67%2F1474-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://leetcode.com/alexprut/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/LeetCode/blob/master/LICENSE)
@@ -58,7 +58,7 @@ platform tests of a given problem.
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)|Medium|[Solution.java](Problems/240/Solution.java)|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)|Medium|[Solution.java](Problems/300/Solution.java)|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl)|Medium|[Solution.java](Problems/535/Solution.java)|
-|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree)|Easy|[Solution.java](Problems/538/Solution.java)|
+|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree)|Medium|[Solution.java](Problems/538/Solution.java)|
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)|Easy|[Solution.java](Problems/559/Solution.java)|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix)|Easy|[Solution.java](Problems/566/Solution.java)|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string)|Medium|[Solution.java](Problems/567/Solution.java)|
@@ -78,6 +78,7 @@ platform tests of a given problem.
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image)|Easy|[Solution.java](Problems/832/Solution.java)|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix)|Easy|[Solution.java](Problems/867/Solution.java)|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)|Easy|[Solution.java](Problems/938/Solution.java)|
+|950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order)|Medium|[Solution.java](Problems/950/Solution.java)|
 |965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)|Easy|[Solution.java](Problems/965/Solution.java)|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)|Medium|[Solution.java](Problems/1008/Solution.java)|
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses)|Easy|[Solution.java](Problems/1021/Solution.java)|
@@ -116,6 +117,8 @@ platform tests of a given problem.
 |1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key)|Medium|[Solution.java](Problems/1409/Solution.java)|
 |1450|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)|Easy|[Solution.java](Problems/1450/Solution.java)|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)|Easy|[Solution.java](Problems/1470/Solution.java)|
+|1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)|Easy|[Solution.java](Problems/1480/Solution.java)|
+|1534|[Count Good Triplets](https://leetcode.com/problems/count-good-triplets)|Easy|[Solution.java](Problems/1534/Solution.java)|
 
 License
 =======
