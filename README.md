@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-69%2F1474-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-80%2F1474-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://leetcode.com/alexprut/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/LeetCode/blob/master/LICENSE)
@@ -51,14 +51,24 @@ platform tests of a given problem.
 ## Problems
 |Number|Title|Difficulty|Solution|
 |-|-|-|-|
+|1|[Two Sum](https://leetcode.com/problems/two-sum)|Easy|[Solution.java](Problems/1/Solution.java)|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|[Solution.java](Problems/2/Solution.java)|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|Medium|[Solution.java](Problems/3/Solution.java)|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|Easy|[Solution.java](Problems/14/Solution.java)|
+|46|[Permutations](https://leetcode.com/problems/permutations)|Medium|[Solution.java](Problems/46/Solution.java)|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii)|Medium|[Solution.java](Problems/47/Solution.java)|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|Medium|[Solution.java](Problems/73/Solution.java)|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|Medium|[Solution.java](Problems/94/Solution.java)|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|Easy|[Solution.java](Problems/104/Solution.java)|
+|136|[Single Number](https://leetcode.com/problems/single-number)|Easy|[Solution.java](Problems/136/Solution.java)|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|Easy|[Solution.java](Problems/206/Solution.java)|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)|Medium|[Solution.java](Problems/208/Solution.java)|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|Medium|[Solution.java](Problems/230/Solution.java)|
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list)|Easy|[Solution.java](Problems/237/Solution.java)|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)|Medium|[Solution.java](Problems/240/Solution.java)|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)|Medium|[Solution.java](Problems/300/Solution.java)|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string)|Easy|[Solution.java](Problems/344/Solution.java)|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|Easy|[Solution.java](Problems/412/Solution.java)|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl)|Medium|[Solution.java](Problems/535/Solution.java)|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree)|Medium|[Solution.java](Problems/538/Solution.java)|
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)|Easy|[Solution.java](Problems/559/Solution.java)|
