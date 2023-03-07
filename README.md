@@ -72,6 +72,7 @@ platform tests of a given problem.
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)|Medium|[Solution.java](Problems/300/Solution.java)|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|Easy|[Solution.java](Problems/344/Solution.java)|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|Easy|[Solution.java](Problems/412/Solution.java)|
+|460|[LFU Cache](https://leetcode.com/problems/lfu-cache/)|Hard|[Solution.java](Problems/460/Solution.java)|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl)|Medium|[Solution.java](Problems/535/Solution.java)|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree)|Medium|[Solution.java](Problems/538/Solution.java)|
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)|Easy|[Solution.java](Problems/559/Solution.java)|
