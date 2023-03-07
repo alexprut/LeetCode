@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-82%2F1474-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-85%2F1474-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://leetcode.com/alexprut/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/LeetCode/blob/master/LICENSE)
@@ -56,6 +56,7 @@ platform tests of a given problem.
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|Medium|[Solution.java](Problems/3/Solution.java)|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|Easy|[Solution.java](Problems/14/Solution.java)|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Easy|[Solution.java](Problems/21/Solution.java)|
+|21|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|Hard|[Solution.java](Problems/23/Solution.java)|
 |46|[Permutations](https://leetcode.com/problems/permutations)|Medium|[Solution.java](Problems/46/Solution.java)|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii)|Medium|[Solution.java](Problems/47/Solution.java)|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|Medium|[Solution.java](Problems/73/Solution.java)|
