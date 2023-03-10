@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-86%2F1474-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-87%2F1474-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://leetcode.com/alexprut/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/LeetCode/blob/master/LICENSE)
@@ -104,6 +104,7 @@ platform tests of a given problem.
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)|Easy|[Solution.java](Problems/1108/Solution.java)|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)|Medium|[Solution.java](Problems/1143/Solution.java)|
 |1179|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table)|Easy|[Solution.java](Problems/1179/Solution.java)|
+|1206|[Design Skiplist](https://leetcode.com/problems/design-skiplist/)|Hard|[Solution.java](Problems/1206/Solution.java)|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings)|Easy|[Solution.java](Problems/1221/Solution.java)|
 |1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)|Easy|[Solution.java](Problems/1252/Solution.java)|
 |1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points)|Easy|[Solution.java](Problems/1266/Solution.java)|
