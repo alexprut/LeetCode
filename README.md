@@ -86,6 +86,7 @@ platform tests of a given problem.
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|Medium|[Solution.java](Problems/695/Solution.java)|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|Easy|[Solution.java](Problems/700/Solution.java)|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)|Medium|[Solution.java](Problems/701/Solution.java)|
+|707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|Medium|[Solution.java](Problems/707/Solution.java)|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|Easy|[Solution.java](Problems/709/Solution.java)|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels)|Medium|[Solution.java](Problems/763/Solution.java)|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|Easy|[Solution.java](Problems/771/Solution.java)|
