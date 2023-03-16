@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-97%2F1474-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-98%2F1474-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://leetcode.com/alexprut/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/LeetCode/blob/master/LICENSE)
@@ -12,7 +12,7 @@
 ### Disclaimer
 
 <table>
-  <tr>g
+  <tr>
     <td>
       <a href="https://github.com/alexprut/Algo">
         <img src="https://github.com/alexprut/Algo/raw/master/src/main/resources/logo.png" width="80" height="auto"/>
@@ -145,6 +145,7 @@ platform tests of a given problem.
 |2102|[Sequentially Ordinal Rank Tracker](https://leetcode.com/problems/sequentially-ordinal-rank-tracker/)|Hard|[Solution.java](Problems/2102/Solution.java)|
 |2130|[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|Medium|[Solution.java](Problems/2130/Solution.java)|
 |2186|[Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)|Medium|[Solution.java](Problems/2186/Solution.java)|
+|2315|[Count Asterisks](https://leetcode.com/problems/count-asterisks/)|Easy|[Solution.java](Problems/2315/Solution.java)|
 |2336|[Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)|Medium|[Solution.java](Problems/2336/Solution.java)|
 |2485|[Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)|Easy|[Solution.java](Problems/2485/Solution.java)|
 |2485|[Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)|Easy|[Solution.java](Problems/2485/Solution.java)|
