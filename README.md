@@ -145,6 +145,7 @@ platform tests of a given problem.
 |1557|[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|Medium|[Solution.java](Problems/1557/Solution.java)|
 |1588|[Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)|Easy|[Solution.java](Problems/1588/Solution.java)|
 |1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|Easy|[Solution.java](Problems/1603/Solution.java)|
+|1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|Easy|[Solution.java](Problems/1684/Solution.java)|
 |1829|[Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/)|Medium|[Solution.java](Problems/1829/Solution.java)|
 |1971|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)|Easy|[Solution.java](Problems/1971/Solution.java)|
 |2102|[Sequentially Ordinal Rank Tracker](https://leetcode.com/problems/sequentially-ordinal-rank-tracker/)|Hard|[Solution.java](Problems/2102/Solution.java)|
