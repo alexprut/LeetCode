@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-108%2F2906-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-109%2F2906-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://leetcode.com/alexprut/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/LeetCode/blob/master/LICENSE)
@@ -147,13 +147,14 @@ platform tests of a given problem.
 |1588|[Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)|Easy|[Solution.java](Problems/1588/Solution.java)|
 |1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|Easy|[Solution.java](Problems/1603/Solution.java)|
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|Easy|[Solution.java](Problems/1684/Solution.java)|
+|1700|[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)|Easy|[Solution.java](Problems/1700/Solution.java)|
 |1742|[Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/)|Easy|[Solution.java](Problems/1742/Solution.java)|
 |1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)|Easy|[Solution.java](Problems/1791/Solution.java)|
 |1829|[Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/)|Medium|[Solution.java](Problems/1829/Solution.java)|
 |1971|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)|Easy|[Solution.java](Problems/1971/Solution.java)|
 |2102|[Sequentially Ordinal Rank Tracker](https://leetcode.com/problems/sequentially-ordinal-rank-tracker/)|Hard|[Solution.java](Problems/2102/Solution.java)|
 |2130|[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|Medium|[Solution.java](Problems/2130/Solution.java)|
-|2186|[Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)|Medium|[Solution.java](Problems/2186/Solution.java)|
+|2181|[Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)|Medium|[Solution.java](Problems/2181/Solution.java)|
 |2315|[Count Asterisks](https://leetcode.com/problems/count-asterisks/)|Easy|[Solution.java](Problems/2315/Solution.java)|
 |2336|[Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)|Medium|[Solution.java](Problems/2336/Solution.java)|
 |2363|[Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)|Easy|[Solution.java](Problems/2363/Solution.java)|
