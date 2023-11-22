@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-114%2F2927-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-115%2F2927-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://leetcode.com/alexprut/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/LeetCode/blob/master/LICENSE)
@@ -76,6 +76,7 @@ platform tests of a given problem.
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)|Medium|[Solution.java](Problems/300/Solution.java)|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|Easy|[Solution.java](Problems/344/Solution.java)|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|Easy|[Solution.java](Problems/412/Solution.java)|
+|433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)|Medium|[Solution.java](Problems/433/Solution.java)|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|Medium|[Solution.java](Problems/460/Solution.java)|
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/)|Hard|[Solution.java](Problems/460/Solution.java)|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl)|Medium|[Solution.java](Problems/535/Solution.java)|
