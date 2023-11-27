@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-115%2F2927-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-116%2F2927-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://leetcode.com/alexprut/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/LeetCode/blob/master/LICENSE)
@@ -60,6 +60,7 @@ platform tests of a given problem.
 |46|[Permutations](https://leetcode.com/problems/permutations)|Medium|[Solution.java](Problems/46/Solution.java)|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii)|Medium|[Solution.java](Problems/47/Solution.java)|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|Medium|[Solution.java](Problems/61/Solution.java)|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Easy|[Solution.java](Problems/70/Solution.java)|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|Medium|[Solution.java](Problems/73/Solution.java)|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|Medium|[Solution.java](Problems/94/Solution.java)|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Medium|[Solution.java](Problems/102/Solution.java)|
