@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-118%2F2927-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-119%2F2927-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://leetcode.com/alexprut/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/LeetCode/blob/master/LICENSE)
@@ -89,6 +89,7 @@ platform tests of a given problem.
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal)|Easy|[Solution.java](Problems/589/Solution.java)|
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal)|Easy|[Solution.java](Problems/590/Solution.java)|
 |595|[Big Countries](https://leetcode.com/problems/big-countries)|Easy|[Solution.java](Problems/595/Solution.java)|
+|620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|Easy|[Solution.txt](Problems/617/Solution.txt)|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)|Easy|[Solution.java](Problems/617/Solution.java)|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|Medium|[Solution.java](Problems/695/Solution.java)|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|Easy|[Solution.java](Problems/700/Solution.java)|
