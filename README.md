@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-124%2F2927-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-125%2F2927-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://leetcode.com/alexprut/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/LeetCode/blob/master/LICENSE)
@@ -54,6 +54,7 @@ platform tests of a given problem.
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|Easy|[Solution.java](Problems/1/Solution.java)|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|Medium|[Solution.java](Problems/2/Solution.java)|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|Medium|[Solution.java](Problems/3/Solution.java)|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|Medium|[Solution.java](Problems/11/Solution.java)|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|Easy|[Solution.java](Problems/14/Solution.java)|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Easy|[Solution.java](Problems/21/Solution.java)|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|Hard|[Solution.java](Problems/23/Solution.java)|
