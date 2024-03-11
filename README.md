@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-128%2F3073-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-129%2F3073-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://leetcode.com/alexprut/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/LeetCode/blob/master/LICENSE)
@@ -48,6 +48,7 @@ The problem solutions and implementations are entirely provided by [Alex Prut](h
 The code is not refactored, no coding style is followed, the only purpose of the written code is to pass all the
 platform tests of a given problem.
 
+
 ## Problems
 |Number|Title|Difficulty|Solution|
 |-|-|-|-|
@@ -75,6 +76,7 @@ platform tests of a given problem.
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Medium|[Solution.java](Problems/102/Solution.java)|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|Easy|[Solution.java](Problems/104/Solution.java)|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|Easy|[Solution.java](Problems/104/Solution.java)|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|Medium|[Solution.java](Problems/114/Solution.java)|
 |136|[Single Number](https://leetcode.com/problems/single-number)|Easy|[Solution.java](Problems/136/Solution.java)|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|Medium|[Solution.java](Problems/146/Solution.java)|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|Easy|[Solution.java](Problems/190/Solution.java)|
