@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-133%2F3073-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-134%2F3073-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://leetcode.com/alexprut/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/LeetCode/blob/master/LICENSE)
@@ -82,6 +82,7 @@ platform tests of a given problem.
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|Medium|[Solution.java](Problems/151/Solution.java)|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|Medium|[Solution.java](Problems/162/Solution.java)|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/)|Medium|[Solution.java](Problems/173/Solution.java)|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|Medium|[Solution.java](Problems/189/Solution.java)|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|Easy|[Solution.java](Problems/190/Solution.java)|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|Medium|[Solution.java](Problems/200/Solution.java)|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|Easy|[Solution.java](Problems/206/Solution.java)|
