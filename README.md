@@ -181,6 +181,7 @@ platform tests of a given problem.
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|Easy|[Solution.java](Problems/1684/Solution.java)|
 |1700|[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)|Easy|[Solution.java](Problems/1700/Solution.java)|
 |1742|[Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/)|Easy|[Solution.java](Problems/1742/Solution.java)|
+|1784|[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)|Easy|[Solution.java](Problems/1784/Solution.java)|
 |1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)|Easy|[Solution.java](Problems/1791/Solution.java)|
 |1829|[Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/)|Medium|[Solution.java](Problems/1829/Solution.java)|
 |1971|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)|Easy|[Solution.java](Problems/1971/Solution.java)|
