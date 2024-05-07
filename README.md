@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-139%2F3073-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-140%2F3073-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://leetcode.com/alexprut/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/LeetCode/blob/master/LICENSE)
@@ -114,6 +114,7 @@ platform tests of a given problem.
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|Medium|[Solution.java](Problems/695/Solution.java)|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|Easy|[Solution.java](Problems/700/Solution.java)|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)|Medium|[Solution.java](Problems/701/Solution.java)|
+|706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|Easy|[Solution.java](Problems/706/Solution.java)|
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|Medium|[Solution.java](Problems/707/Solution.java)|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|Easy|[Solution.java](Problems/709/Solution.java)|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels)|Medium|[Solution.java](Problems/763/Solution.java)|
