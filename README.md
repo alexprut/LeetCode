@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-138%2F3073-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-139%2F3073-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://leetcode.com/alexprut/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/LeetCode/blob/master/LICENSE)
@@ -125,6 +125,7 @@ platform tests of a given problem.
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image)|Easy|[Solution.java](Problems/832/Solution.java)|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix)|Easy|[Solution.java](Problems/867/Solution.java)|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)|Easy|[Solution.java](Problems/938/Solution.java)|
+|946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences)|Medium|[Solution.java](Problems/946/Solution.java)|
 |950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order)|Medium|[Solution.java](Problems/950/Solution.java)|
 |965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)|Easy|[Solution.java](Problems/965/Solution.java)|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)|Medium|[Solution.java](Problems/1008/Solution.java)|
