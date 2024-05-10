@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-141%2F3073-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-142%2F3073-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://leetcode.com/alexprut/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/LeetCode/blob/master/LICENSE)
@@ -170,6 +170,7 @@ platform tests of a given problem.
 |1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams)|Medium|[Solution.java](Problems/1395/Solution.java)|
 |1408|[String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)|Easy|[Solution.java](Problems/1408/Solution.java)|
 |1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key)|Medium|[Solution.java](Problems/1409/Solution.java)|
+|1447|[Simplified Fractions](https://leetcode.com/problems/simplified-fractions)|Medium|[Solution.java](Problems/1447/Solution.java)|
 |1450|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)|Easy|[Solution.java](Problems/1450/Solution.java)|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|Easy|[Solution.java](Problems/1464/Solution.java)|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)|Easy|[Solution.java](Problems/1470/Solution.java)|
