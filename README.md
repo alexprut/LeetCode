@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-149%2F3073-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-150%2F3073-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://leetcode.com/alexprut/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/LeetCode/blob/master/LICENSE)
@@ -92,6 +92,7 @@ platform tests of a given problem.
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|Medium|[Solution.java](Problems/189/Solution.java)|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|Easy|[Solution.java](Problems/190/Solution.java)|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|Medium|[Solution.java](Problems/200/Solution.java)|
+|211|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|Medium|[Solution.java](Problems/211/Solution.java)|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|Easy|[Solution.java](Problems/206/Solution.java)|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)|Medium|[Solution.java](Problems/208/Solution.java)|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|Medium|[Solution.java](Problems/230/Solution.java)|
