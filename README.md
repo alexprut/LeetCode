@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/alexprut/LeetCode/raw/master/leetcode-logo.png" width="450" height="auto"/>
 
-[![Solutions](https://img.shields.io/badge/solutions-161%2F3073-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
+[![Solutions](https://img.shields.io/badge/solutions-162%2F3073-green.svg?style=flat-square)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Languages](https://img.shields.io/badge/languages-c%2B%2B%2Cjava%2Chaskell-yellow.svg)](https://github.com/alexprut/LeetCode#table-of-contents)
 [![Author](https://img.shields.io/badge/author-alexprut-brightgreen.svg?style=flat-square)](https://leetcode.com/alexprut/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/alexprut/LeetCode/blob/master/LICENSE)
@@ -91,6 +91,7 @@ platform tests of a given problem.
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions)|Medium|[Solution.java](Problems/130/Solution.java)|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph)|Medium|[Solution.java](Problems/133/Solution.java)|
 |136|[Single Number](https://leetcode.com/problems/single-number)|Easy|[Solution.java](Problems/136/Solution.java)|
+|139|[Word Break](https://leetcode.com/problems/word-break/)|Medium|[Solution.java](Problems/139/Solution.java)|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|Medium|[Solution.java](Problems/146/Solution.java)|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|Medium|[Solution.java](Problems/151/Solution.java)|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|Medium|[Solution.java](Problems/162/Solution.java)|
